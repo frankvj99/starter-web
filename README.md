@@ -10,4 +10,8 @@ This is an example to show different parts of the GIT repository and various com
 
 ## Deployment
 
+Thsi is a simple web project, deployment... just more changes.
+
 ## How to Combine
+
+Another change here.
