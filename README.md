@@ -15,3 +15,5 @@ Thsi is a simple web project, deployment... just more changes.
 ## How to Combine
 
 Another change here.
+
+<!-- A copyright message -->
