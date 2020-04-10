@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Frank Romeo		someemail@gmail.com		SomethingElse A new change here.
 
 # THANKS
 
