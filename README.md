@@ -14,6 +14,6 @@ Thsi is a simple web project, deployment... just more changes.
 
 ## How to Combine
 
-Another change here.
+Some change here. Another sentence. OK.
 
 <!-- A copyright message -->
