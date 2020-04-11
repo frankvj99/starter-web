@@ -2,7 +2,8 @@
 
 This is a simple website project to practice GIT.
 
-Addling a line for rebasing example.
+Addling a line for rebasing example, then
+more changes from my-feature branch too.
 
 ## Introduction
 
