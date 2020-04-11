@@ -2,6 +2,8 @@
 
 This is a simple website project to practice GIT.
 
+Addling a line for rebasing example.
+
 ## Introduction
 
 This is an example to show different parts of the GIT repository and various commands using a web project.
