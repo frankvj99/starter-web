@@ -1,2 +1,5 @@
 IgnoreThis.txt
 *.log
+*.orig
+*.bak
+*.gitignore
